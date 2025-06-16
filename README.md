@@ -22,15 +22,3 @@ It allows users to add, view, edit, and delete tasks through a clean and respons
 - **Database**: SQLite (default with Django)
 
 ---
-## 🚀 Project Setup
-
-### 1️⃣ Clone the Repository
-```bash
-git clone https://github.com/yourusername/django-todo-app.git
-cd django-todo-app
-
-### 1️⃣ Clone the Repository
-```bash
-git clone https://github.com/yourusername/django-todo-app.git
-cd django-todo-app
-
